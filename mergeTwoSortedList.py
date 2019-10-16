@@ -1,8 +1,8 @@
-#########################################################################
-# Code Objective: Merge two linked list and return a sorted linked list
+######################################################################################################
+# Code Objective: Merge two linked list which are already sorted and return a new sorted linked list
 # Author: Prashanth Pradeep
 # Timestamp: Tuesday, September 17, 2019 6:18:03 PM
-#########################################################################
+######################################################################################################
 
 class LinkedListNode:
     def __init__(self, data):
