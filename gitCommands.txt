@@ -1,0 +1,12 @@
+git init
+git status
+git add .
+git status
+git commit -m "First Commit"
+git status
+git remote add origin https://github.com/prashanth-p/Data-Structurs-and-Algorithms.git
+git remote rm origin
+git remote add origin https://github.com/prashanth-p/Data-Structurs-and-Algorithms.git
+git remote show origin
+git push -u origin master
+git status
